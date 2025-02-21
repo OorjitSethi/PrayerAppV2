@@ -1,0 +1,35 @@
+/* src/components/JoinSession.css */
+.join-session-container {
+    padding: 20px;
+  }
+  
+  .join-session-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+  }
+  
+  .join-session-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .join-session-form input {
+    padding: 8px;
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  
+  .join-session-form button {
+    padding: 10px;
+    background-color: #4A90E2;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .join-session-form button:hover {
+    background-color: #357ABD;
+  }
+  

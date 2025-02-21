@@ -1,0 +1,24 @@
+/* src/components/PrayerList.css */
+.prayer-list-container {
+    padding: 20px;
+  }
+  
+  .prayer-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .prayer-item {
+    margin-bottom: 10px;
+  }
+  
+  .prayer-link {
+    text-decoration: none;
+    color: #4A90E2;
+    font-size: 18px;
+  }
+  
+  .prayer-link:hover {
+    text-decoration: underline;
+  }
+  

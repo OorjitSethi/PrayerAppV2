@@ -1,0 +1,16 @@
+/* src/components/PrayerDetail.css */
+.prayer-detail-container {
+    padding: 20px;
+  }
+  
+  .prayer-content {
+    margin-top: 20px;
+    line-height: 1.6;
+    font-size: 18px;
+  }
+  
+  .source-url {
+    margin-top: 20px;
+    font-style: italic;
+  }
+  
